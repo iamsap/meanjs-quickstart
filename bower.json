@@ -1,0 +1,28 @@
+{
+  "name": "meanjs-quickstart",
+  "homepage": "https://github.com/iamsap/meanjs-quickstart",
+  "authors": [
+    "Robby Millsap (robbymillsap@gmail.com)"
+  ],
+  "description": "A quick project template for an Angular application. Use for prototyping or testing an AngularJS module",
+  "main": "server.js",
+  "moduleType": [],
+  "keywords": [
+    "nodejs",
+    "meanjs",
+    "angularjs",
+    "express"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7"
+  }
+}
